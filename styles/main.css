@@ -43,6 +43,10 @@ section img{
   float: left;
 }
 
+.toLeft img{
+  float: right;
+}
+
 section p{
   padding-left: 2%;
 }
